@@ -1,0 +1,50 @@
+body{
+font-family: tahoma;
+font-size: 18px;
+color: rebeccapurple;
+background-color: mediumpurple;
+line-height: 1.5;
+
+}
+.link{
+    background-color: antiquewhite;
+}
+
+.articulo{
+    background-color: antiquewhite;
+    }
+h1 {
+ background-color: antiquewhite;
+ text-align: center;
+}
+h2{
+        text-align: center;
+}
+h3{
+    text-align: center;
+}
+img{
+    width: 350px;
+    
+}
+.container{
+    display:flex;
+    flex-direction: column;
+}
+.menu-title{
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+.sub-container{
+    flex-direction: row;
+    display: flex;
+}
+.sub-container p{
+margin-left: 10px;
+color: antiquewhite;
+}
+.piedepagina{
+    text-align: center;
+    color: antiquewhite;
+   
+}
